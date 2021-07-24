@@ -1,0 +1,59 @@
+.a,h1{
+ color: blueviolet;
+ background-color: black;
+text-align: center;
+}
+.b,p{
+color: aqua;  
+}
+.c,p{
+  color: blue;
+}
+.d,p{
+   color: coral;
+}
+.e,p{
+    color: cornflowerblue;
+}
+.g{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+.b{
+    background-color: darkgoldenrod;
+
+}
+.c{
+    background-color: darkseagreen;
+}
+.d{
+   background-color: darkviolet ;
+}
+.e{
+  background-color: dimgrey;
+  margin-top: 50px;
+}
+.f{
+    background-color: fuchsia;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.b,img{
+  border: solid black; 
+margin-left: 70px;
+}
+.c,img{
+    border: solid black;
+}
+.d,img{
+    border: solid black;
+}
+.e,img{
+    border: solid black;
+}
+.f,img{
+    border: solid black;
+}
+
